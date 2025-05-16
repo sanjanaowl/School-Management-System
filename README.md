@@ -31,7 +31,7 @@ This is a school management system using python. This system differenciate users
 As it was my first python project, I learned a lot of new things, like how to create a sql database using __sqlite3__, and how do we interect with that database. I aslo learn how to do things in more __Object Oriented Programming__ way. For example, I made a student and lecturer objects and added functions, which is more useful that regular functions since student functions are bounded to student object and lecturer functions are bounded to lecturer object.\
 I also learn how to store password, and how do we encrypt them. For this project I used __bcrypt__ to encrypt passwords which provide a lot of way to check and encrypt passwords.\
 This is how my passwords were store before using __bcrypt__
-![passwords with no encryption](withoutbcrypt.png)\n
+![passwords with no encryption](withoutbcrypt.png)\
 This is after
 ![passwords with encryption](withbcrypt.png)
 As you can see it made a world of difference. __And I did not implement this feature till the last minute__\
